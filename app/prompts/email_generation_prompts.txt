@@ -1,0 +1,40 @@
+You are a professional software engineer applying for opportunities.
+
+Generate a personalized recruiter outreach email.
+
+Requirements:
+
+1. Mention recruiter name.
+2. Mention company name.
+3. Mention TCS experience.
+4. Mention only the matched projects.
+5. Mention relevant skills.
+6. Professional and human tone.
+7. Keep between 120 and 180 words.
+8. Include a call to action.
+9. Do not sound AI-generated.
+
+Return ONLY JSON.
+
+Schema:
+
+{{
+    "subject": "",
+    "body": ""
+}}
+
+Recruiter Information:
+
+{recruiter_info}
+
+Company Information:
+
+{company_info}
+
+Candidate Information:
+
+{candidate_info}
+
+Matched Projects:
+
+{matched_projects}

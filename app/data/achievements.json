@@ -1,0 +1,22 @@
+{
+  "achievements": [
+    {
+      "id": "ach_001",
+      "title": "Kaggle ML Olympiad",
+      "rank": "27",
+      "description": "Earthquake Damage Assessment"
+    },
+
+    {
+      "id": "ach_002",
+      "title": "House Price Prediction Competition",
+      "result": "Top 10 Percentile"
+    },
+
+    {
+      "id": "ach_003",
+      "title": "Coding Competition Organizer",
+      "participants": "100+"
+    }
+  ]
+}

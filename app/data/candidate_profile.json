@@ -1,0 +1,46 @@
+{
+  "name": "Rishu Kumar",
+  "email": "rishusingh8671@gmail.com",
+  "phone": "+91-7808567301",
+
+  "profiles": {
+    "github": true,
+    "linkedin": true,
+    "kaggle": true
+  },
+
+  "summary": {
+    "title": "AI Engineer | Backend Developer | Machine Learning Engineer",
+    "overview": [
+      "Professional experience at TCS",
+      "Agentic AI development",
+      "RAG applications",
+      "Microservices architecture",
+      "FastAPI backend development",
+      "LLM integration",
+      "Scalable API development"
+    ]
+  },
+
+  "education": {
+    "bachelors": {
+      "institution": "Heritage Institute of Technology",
+      "degree": "B.Tech",
+      "specialization": "CSE (AI & ML)",
+      "cgpa": 8.06,
+      "duration": "2021-2025"
+    },
+
+    "higher_secondary": {
+      "institution": "Saraswati Shishu Vidya Mandir",
+      "year": 2020,
+      "percentage": 93.4
+    },
+
+    "secondary": {
+      "institution": "Saraswati Shishu Vidya Mandir",
+      "year": 2018,
+      "percentage": 84
+    }
+  }
+}

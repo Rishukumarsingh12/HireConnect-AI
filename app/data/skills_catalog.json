@@ -1,0 +1,83 @@
+{
+  "languages": [
+    "Python",
+    "JavaScript",
+    "SQL",
+    "C++",
+    "C"
+  ],
+
+  "backend": [
+    "FastAPI",
+    "REST APIs",
+    "Microservices",
+    "JWT Authentication",
+    "API Gateway",
+    "SQLAlchemy"
+  ],
+
+  "databases": [
+    "MySQL",
+    "PostgreSQL",
+    "Redis",
+    "Oracle"
+  ],
+
+  "gen_ai": [
+    "RAG",
+    "Agentic AI",
+    "Prompt Engineering",
+    "LLM Applications",
+    "Semantic Search",
+    "LangChain",
+    "LangGraph",
+    "Ollama"
+  ],
+
+  "machine_learning": [
+    "Machine Learning",
+    "Supervised Learning",
+    "Unsupervised Learning",
+    "Feature Engineering",
+    "Model Evaluation",
+    "Hyperparameter Tuning"
+  ],
+
+  "nlp": [
+    "Natural Language Processing",
+    "Text Processing",
+    "TF-IDF",
+    "Sentiment Analysis"
+  ],
+
+  "cloud": [
+    "AWS SageMaker",
+    "Amazon S3"
+  ],
+
+  "tools": [
+    "Docker",
+    "Docker Compose",
+    "Linux",
+    "Git",
+    "GitHub",
+    "Prometheus",
+    "Grafana"
+  ],
+
+  "libraries": [
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "NLTK",
+    "TextBlob"
+  ],
+
+  "fundamentals": [
+    "DBMS",
+    "OOP",
+    "Operating Systems",
+    "Data Structures",
+    "Algorithms"
+  ]
+}

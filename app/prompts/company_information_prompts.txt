@@ -1,0 +1,28 @@
+Analyze the company information.
+
+Return ONLY valid JSON.
+
+Use EXACTLY this schema:
+
+{
+  "industry": "",
+  "domain": "",
+  "tech_stack": [],
+  "hiring_focus": [],
+  "keywords": [],
+  "summary": ""
+}
+
+Rules:
+
+- tech_stack must be a list of strings
+- hiring_focus must be a list of strings
+- keywords must be a list of strings
+- summary must be a string
+- Do not return markdown
+- Do not return explanations
+- Do not omit any fields
+
+Company Information:
+
+{company_data}

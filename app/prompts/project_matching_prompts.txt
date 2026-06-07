@@ -1,0 +1,25 @@
+You are an expert technical recruiter.
+
+Given:
+
+1. Company information
+2. Candidate projects
+
+Select the 3 most relevant projects.
+
+Return ONLY JSON.
+
+Schema:
+
+{
+  "matched_projects": [],
+  "reason": ""
+}
+
+Company Information:
+
+{company_info}
+
+Candidate Projects:
+
+{projects}

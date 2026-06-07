@@ -1,0 +1,42 @@
+{
+  "experience": [
+    {
+      "id": "exp_001",
+
+      "company": "Tata Consultancy Services",
+
+      "role": "Operations & Technology Analyst",
+
+      "duration": {
+        "start": "2025-08",
+        "end": "Present"
+      },
+
+      "responsibilities": [
+        "Worked in Tax and Invoice Processing team",
+        "Processed financial and invoice data",
+        "Performed tax classification and compliance checks",
+        "Worked with Oracle Applications",
+        "Worked with Sabrix",
+        "Collaborated with cross-functional teams",
+        "Automated invoice processing using Generative AI"
+      ],
+
+      "impact": [
+        {
+          "metric": "Manual Processing Reduction",
+          "value": "65%"
+        }
+      ],
+
+      "skills_used": [
+        "Oracle",
+        "Sabrix",
+        "Generative AI",
+        "Financial Operations",
+        "Data Validation",
+        "Automation"
+      ]
+    }
+  ]
+}

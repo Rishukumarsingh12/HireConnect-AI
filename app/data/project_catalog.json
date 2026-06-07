@@ -1,0 +1,161 @@
+{
+  "projects": [
+    {
+      "id": "proj_001",
+
+      "name": "Agentic RAG Chat System",
+
+      "category": "Generative AI",
+
+      "priority": 10,
+
+      "skills": [
+        "FastAPI",
+        "Ollama",
+        "Docker",
+        "MySQL",
+        "RAG",
+        "Agentic AI",
+        "Semantic Search"
+      ],
+
+      "keywords": [
+        "LLM",
+        "AI",
+        "Chatbot",
+        "RAG",
+        "Enterprise Search"
+      ],
+
+      "description": "Agentic AI-powered RAG system using FastAPI and Ollama."
+    },
+
+    {
+      "id": "proj_002",
+
+      "name": "AI Powered Microservices Ecommerce Backend",
+
+      "category": "Backend Engineering",
+
+      "priority": 10,
+
+      "skills": [
+        "FastAPI",
+        "Docker",
+        "Redis",
+        "MySQL",
+        "JWT",
+        "Microservices"
+      ],
+
+      "keywords": [
+        "Backend",
+        "Cloud",
+        "Distributed Systems",
+        "Scalable APIs"
+      ],
+
+      "description": "Distributed microservices ecommerce platform."
+    },
+
+    {
+      "id": "proj_003",
+
+      "name": "ATS Resume Scorer",
+
+      "category": "Generative AI",
+
+      "priority": 9,
+
+      "skills": [
+        "FastAPI",
+        "LLM",
+        "JSON",
+        "Resume Parsing"
+      ],
+
+      "keywords": [
+        "Recruitment",
+        "ATS",
+        "AI",
+        "Resume Analysis"
+      ],
+
+      "description": "LLM powered ATS evaluation system."
+    },
+
+    {
+      "id": "proj_004",
+
+      "name": "Job Application Tracker",
+
+      "category": "Backend Development",
+
+      "priority": 8,
+
+      "skills": [
+        "FastAPI",
+        "SQLAlchemy",
+        "JWT",
+        "MySQL"
+      ],
+
+      "keywords": [
+        "Backend",
+        "Authentication",
+        "CRUD"
+      ],
+
+      "description": "Job application management platform."
+    },
+
+    {
+      "id": "proj_005",
+
+      "name": "Twitter Sentiment Analyzer",
+
+      "category": "NLP",
+
+      "priority": 6,
+
+      "skills": [
+        "NLP",
+        "TF-IDF",
+        "TextBlob",
+        "Scikit-learn"
+      ],
+
+      "keywords": [
+        "Sentiment Analysis",
+        "Machine Learning",
+        "NLP"
+      ],
+
+      "description": "Tweet sentiment classification system."
+    },
+
+    {
+      "id": "proj_006",
+
+      "name": "Hotel Booking Cancellation Prediction",
+
+      "category": "Machine Learning",
+
+      "priority": 5,
+
+      "skills": [
+        "AWS SageMaker",
+        "Amazon S3",
+        "Machine Learning"
+      ],
+
+      "keywords": [
+        "Prediction",
+        "Forecasting",
+        "Revenue Optimization"
+      ],
+
+      "description": "Hotel cancellation prediction model."
+    }
+  ]
+}
