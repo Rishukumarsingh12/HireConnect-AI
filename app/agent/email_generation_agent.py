@@ -15,7 +15,7 @@ class EmailGenerationAgent:
         self.llm_service = LLMService()
 
         with open(
-            "app/prompts/email_generation_prompt.txt",
+            "app/prompts/email_generation_prompts.txt",
             "r",
             encoding="utf-8"
         ) as f:
@@ -81,23 +81,47 @@ class EmailGenerationAgent:
         .replace(
             "{matched_projects}",
             json.dumps(
-                matching_result["matched_projects"],
+                    [
+                    project.model_dump()
+                    for project in matching_result["matched_projects"]],
                 indent=2
+            )
+        )
+        .replace(
+            "{reasons}",
+            matching_result.get(
+                "reason",
+                ""
             )
         )
     )
         
         response = self.llm_service.generate_json(
     prompt=prompt,
-    system_prompt="""
+   system_prompt="""
 You are a professional software engineer.
 
 Generate highly personalized recruiter outreach emails.
 
-Return JSON only.
+Return ONLY valid JSON.
+
+IMPORTANT:
+- Do not wrap the response in markdown
+- Do not use ```json
+- Escape all newlines using \\n
+- Ensure the output is valid json.loads() compatible JSON
 """,
     temperature=0.7
 )
+        if "error" in response:
+
+            return {
+                "success": False,
+                "error": response["error"],
+                "raw_response": response.get(
+                    "raw_response"
+                )
+            }
         validated = EmailGenerationResponse(
     **response
 )

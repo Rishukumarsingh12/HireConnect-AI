@@ -1,4 +1,4 @@
-import os
+import os, re
 import json
 
 from groq import Groq
@@ -15,7 +15,7 @@ class LLMService:
             api_key=os.getenv("GROQ_API_KEY")
         )
 
-        self.default_model = "llama-3.3-70b-versatile"
+        self.default_model = "meta-llama/llama-4-scout-17b-16e-instruct"
 
     def generate_response(
         self,
@@ -65,22 +65,38 @@ class LLMService:
 
         try:
 
-            cleaned_response = (
-                response_text
-                .replace("```json", "")
-                .replace("```", "")
-                .strip()
-            )
+            # Remove markdown code fences
+            cleaned_response = re.sub(
+                r"```json\s*|```",
+                "",
+                response_text,
+                flags=re.IGNORECASE
+            ).strip()
 
+            # Try direct JSON parsing
             return json.loads(cleaned_response)
 
         except Exception:
+
+            try:
+                # Extract JSON object from response if extra text exists
+                match = re.search(
+                    r"\{.*\}",
+                    cleaned_response,
+                    re.DOTALL
+                )
+
+                if match:
+                    return json.loads(match.group())
+
+            except Exception:
+                pass
 
             return {
                 "error": "Failed to parse JSON response",
                 "raw_response": response_text
             }
-        
+            
     def generate_email(
         self,
         recruiter_name: str,

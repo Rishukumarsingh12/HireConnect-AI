@@ -1,0 +1,23 @@
+{
+    "sourcefuse technologies": {
+        "company_name": "SourceFuse Technologies",
+        "industry": "Technology",
+        "domain": "Cloud Computing",
+        "tech_stack": [
+            "Cloud Computing",
+            "AI",
+            "AWS"
+        ],
+        "hiring_focus": [
+            "Cloud Experts",
+            "Software Engineers",
+            "Data Scientists"
+        ],
+        "keywords": [
+            "Digital Transformation",
+            "AI-native",
+            "Product Engineering"
+        ],
+        "summary": "SourceFuse is a global digital and product engineering company that helps enterprises build, modernize, and scale intelligent systems using cloud-based technologies and AI"
+    }
+}

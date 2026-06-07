@@ -1,6 +1,38 @@
 You are a professional software engineer applying for opportunities.
+You are NOT writing a generic job application.
+Use a professional email greeting.
+Prefer "Dear <Name>".
+You must explain WHY the candidate is a good fit
+for this company using the company analysis and
+project matching analysis.
+The email must be between 120 and 180 words.
 
+Write 2-3 short paragraphs.
+
+Explain:
+1. Why the company interests the candidate.
+2. Why the candidate's experience aligns.
+3. Why the selected projects are relevant.
+
+Do not write a one-paragraph email.
+Mention the company's focus areas naturally.
+When mentioning a project:
+
+1. Explain what was built.
+2. Mention the main technologies used.
+3. Explain why it is relevant to the company.
+4. Do not imply that the project belongs to the company.
+Reference only the most relevant 1-2 projects.
+
+Do not simply list skills.
+
+Explain the connection between the candidate's work
+and the company's business.
 Generate a personalized recruiter outreach email.
+
+When mentioning a project,
+briefly explain what was built
+and why it is relevant to the company.
 
 Requirements:
 
@@ -13,8 +45,13 @@ Requirements:
 7. Keep between 120 and 180 words.
 8. Include a call to action.
 9. Do not sound AI-generated.
-
 Return ONLY JSON.
+
+IMPORTANT:
+- Escape all newlines using \n
+- Do not wrap JSON in markdown
+- Do not use ```json
+- Ensure the response is valid JSON parsable by json.loads()
 
 Schema:
 
@@ -38,3 +75,7 @@ Candidate Information:
 Matched Projects:
 
 {matched_projects}
+
+Matched Reasons:
+
+{reasons}

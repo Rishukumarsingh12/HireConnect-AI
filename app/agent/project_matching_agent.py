@@ -70,20 +70,16 @@ class ProjectMatchingAgent:
             )
             matched_projects = []
 
-            for project_id in validated.matched_projects:
+            for project in validated.matched_projects:
 
-                project = self.resume_service.get_project_by_id(
-                    project_id
-                )
+                matched_projects.append(project)
 
-                if project:
-                    matched_projects.append(project)
             return {
                 "success": True,
                 "data": {
-        "matched_projects": matched_projects,
-        "reason": validated.reason
-    }
+                        "matched_projects": matched_projects,
+                        "reason": validated.reason
+                    }
             }
 
         except Exception as e:
