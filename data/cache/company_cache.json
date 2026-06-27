@@ -19,5 +19,1443 @@
             "Product Engineering"
         ],
         "summary": "SourceFuse is a global digital and product engineering company that helps enterprises build, modernize, and scale intelligent systems using cloud-based technologies and AI"
+    },
+    "perennial systems": {
+        "company_name": "Perennial Systems",
+        "industry": "IT Services and IT Consulting",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Perennial Systems is an innovative technology services company that specializes in Product Engineering, Enterprise Solutions, and Data & AI."
+    },
+    "ib hubs": {
+        "company_name": "iB Hubs",
+        "industry": "Business Services, Software Testing, Project Management, IT Services, IT Consulting",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "iB Hubs is an IT services and consulting company with 501-1,000 employees, founded in 2016, operating primarily in the IT services and consulting sector."
+    },
+    "estuate,": {
+        "company_name": "Estuate,",
+        "industry": "Technology",
+        "domain": "IT Services",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Estuate is a global technology services company offering innovative solutions in platform engineering, business apps, and enterprise security & GRC, leveraging AI and technology solutions."
+    },
+    "colruyt india": {
+        "company_name": "Colruyt India",
+        "industry": "Custom Software & IT Services",
+        "domain": "IT Services",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Colruyt Group India provides end-to-end IT solutions including IT Architecture, Software & Systems Engineering, Infrastructure & Operations, Security, and Quality Assurance. The company operates in Belgium, France, and India, and has a team of around 2,000 IT professionals."
+    },
+    "elsner technologies": {
+        "company_name": "Elsner Technologies",
+        "industry": "IT Solutions, Ecommerce, Digital Solutions",
+        "domain": "https://elsner.com/",
+        "tech_stack": [
+            "Shopify",
+            "Magento",
+            "AI",
+            "Mobile App development",
+            "Web development"
+        ],
+        "hiring_focus": [
+            "software engineering",
+            "digital transformation",
+            "ecommerce solutions"
+        ],
+        "keywords": [
+            "AI-led ecommerce",
+            "digital solutions",
+            "search engine optimization",
+            "enterprise ecommerce"
+        ],
+        "summary": "Elsner Technologies is a global IT solutions company providing AI-led ecommerce, Shopify, Magento, and digital solutions to help businesses thrive in the digital age."
+    },
+    "windmill": {
+        "company_name": "Windmill",
+        "industry": "Technology Services",
+        "domain": "technology services, renewable energy, software development",
+        "tech_stack": [
+            "Azure",
+            "AI",
+            "cybersecurity",
+            "modern app engineering",
+            "open-source",
+            "workflow engine"
+        ],
+        "hiring_focus": [
+            "technology services",
+            "software development",
+            "renewable energy"
+        ],
+        "keywords": [
+            "AI",
+            "Azure",
+            "cybersecurity",
+            "modern app engineering",
+            "wind turbine manufacturing",
+            "sustainable energy solutions"
+        ],
+        "summary": "WINDMILL TECHNOLOGIES LTD is likely involved in delivering technology services, including AI, Azure solutions, cybersecurity, and modern app engineering, with possible connections to renewable energy and software development."
+    },
+    "pyxis one": {
+        "company_name": "Pyxis One",
+        "industry": "Technology",
+        "domain": "pyxis.tech",
+        "tech_stack": [
+            "Cloud",
+            "Cybersecurity",
+            "Data Engineering",
+            "Development",
+            "DevOps",
+            "AI",
+            "SaaS"
+        ],
+        "hiring_focus": [
+            "Development",
+            "Design",
+            "Q&A",
+            "Devops",
+            "Operation & Deploy"
+        ],
+        "keywords": [
+            "AI-enabled",
+            "SaaS",
+            "Digital Marketing",
+            "Market Research",
+            "Cloud",
+            "Cybersecurity",
+            "Data Engineering"
+        ],
+        "summary": "Pyxis is a global technology ecosystem providing solutions in Cloud, Cybersecurity, Data Engineering, Development, and DevOps, with a focus on AI-enabled SaaS solutions for digital marketing and market research."
+    },
+    "qbrainx inc": {
+        "company_name": "QBrainX Inc",
+        "industry": "IT Consulting",
+        "domain": "ServiceNow, Digital Transformation, Business Process Automation",
+        "tech_stack": [],
+        "hiring_focus": [
+            "Enterprise Architects",
+            "Solution Consultants",
+            "Technologists",
+            "Project/Program Management"
+        ],
+        "keywords": [
+            "ServiceNow",
+            "Digital Transformation",
+            "Business Process Automation",
+            "Data Stack"
+        ],
+        "summary": "QBrainX specializes in ServiceNow consulting and services, digital transformation, and business process automation, leveraging modern tools and technologies."
+    },
+    "recro": {
+        "company_name": "Recro",
+        "industry": "IT",
+        "domain": "",
+        "tech_stack": [
+            "Domo",
+            "Microsoft PowerPoint",
+            "Matplotlib"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "cybersecurity",
+            "devops",
+            "cloud services",
+            "IT Infrastructure",
+            "consulting",
+            "analytics",
+            "digital solutions",
+            "software development"
+        ],
+        "summary": "Recro Corporation provides IT-as-a-Service, secure, and cleared IT support desk, on-site and managed services to federal agencies, specializing in advanced IT infrastructure, cybersecurity, devops, cloud services, consulting, analytics, digital solutions, software development, and cloud-native architectures."
+    },
+    "vfi slk": {
+        "company_name": "VFI SLK",
+        "industry": "IT Services and IT Consulting",
+        "domain": "Financial Services",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "VFI SLK, now known as Voya India, is a global IT services company based in Bangalore, India, and a wholly-owned subsidiary of Voya Financial, offering innovative customer solutions through technology transformation, digitalization, automation, and enhancement."
+    },
+    "infrasoft technologies": {
+        "company_name": "Infrasoft Technologies",
+        "industry": "Information Technology",
+        "domain": "Financial Services, Digital Payments, Governance, Risk and Compliance",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Infrasoft Technologies Limited provides IT services and solutions, specializing in software products and services, with expertise in financial services, digital payments, and compliance solutions."
+    },
+    "areteans": {
+        "company_name": "Areteans",
+        "industry": "Consulting",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Areteans is a global consulting firm that combines transformational consulting capabilities, deep industry knowledge, and AI and technology expertise, providing digital transformation services, decision and analytics, and customer relationship management solutions."
+    },
+    "antier solutions": {
+        "company_name": "Antier Solutions",
+        "industry": "Financial Technology",
+        "domain": "https://antier.com/",
+        "tech_stack": [
+            "Blockchain",
+            "Web3",
+            "AI"
+        ],
+        "hiring_focus": [
+            "Blockchain Development",
+            "Web3 Development",
+            "Cryptocurrency Exchange Solutions",
+            "Crypto Wallet Development"
+        ],
+        "keywords": [
+            "Blockchain",
+            "Web3",
+            "AI",
+            "Cryptocurrency",
+            "Digital Transformation",
+            "Fintech"
+        ],
+        "summary": "Antier Solutions is a global technology company specializing in blockchain, Web3, and AI-driven digital transformation services, helping enterprises build regulated digital asset infrastructure and innovative cryptocurrency exchange solutions."
+    },
+    "nitor infotech": {
+        "company_name": "Nitor Infotech",
+        "industry": "Software Product Engineering",
+        "domain": "Software Product Development",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Nitor Infotech, an Ascendion company, is a software product engineering specialist that provides top-notch product engineering services to ISVs and tech platform-based service providers, leveraging cutting-edge technologies including generative AI."
+    },
+    "beyond key": {
+        "company_name": "Beyond Key",
+        "industry": "Software Development & IT Consulting",
+        "domain": "IT",
+        "tech_stack": [
+            "Cloud",
+            "Microsoft 365",
+            "SharePoint",
+            "BI",
+            "Data",
+            "AI",
+            "Custom Dev",
+            "D365"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Software Development",
+            "IT Consulting",
+            "Microsoft Technologies",
+            "Cloud",
+            "Data",
+            "AI",
+            "Custom Solutions"
+        ],
+        "summary": "Beyond Key is a software development and IT consulting company that provides modern tech solutions, including business intelligence, data services, and analytics, serving clients in the USA, Canada, Europe, Australia, and beyond."
+    },
+    "altudo": {
+        "company_name": "Altudo",
+        "industry": "Digital Marketing and Technology Consulting",
+        "domain": "",
+        "tech_stack": [
+            "HTML5",
+            ".NET 4.5",
+            "Vimeo"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Digital Customer Experience",
+            "Personalization",
+            "MarTech integration",
+            "Digital solutions"
+        ],
+        "summary": "Altudo is a global digital customer experience company offering 1:1 personalized experiences across channels through strategy, experience design, digital engineering, and data."
+    },
+    "wunderman thompson msc": {
+        "company_name": "Wunderman Thompson MSC",
+        "industry": "Marketing, Advertising, Technology",
+        "domain": "http://wundermanthompson.com",
+        "tech_stack": [
+            "Celtra",
+            "Tealium AudienceStream",
+            "Quid"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "creative agency",
+            "consultancy",
+            "technology company",
+            "data and technology agency"
+        ],
+        "summary": "Wunderman Thompson is a creative, data and technology agency that inspires growth for ambitious brands by designing, building, managing and running complex technology ecosystems."
+    },
+    "hanu software": {
+        "company_name": "Hanu Software",
+        "industry": "IT",
+        "domain": "cloud, data, AI",
+        "tech_stack": [
+            "Sitecore",
+            "Cart Functionality",
+            "AWS GovCloud"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "cloud",
+            "data",
+            "AI",
+            "Microsoft Azure"
+        ],
+        "summary": "Hanu Software provides comprehensive cloud-driven solutions, digital transformation services, and managed services for complex IT environments."
+    },
+    "claim genius": {
+        "company_name": "Claim Genius",
+        "industry": "Insurance Technology",
+        "domain": "claimgenius.com",
+        "tech_stack": [
+            "Artificial Intelligence",
+            "Computer Vision"
+        ],
+        "hiring_focus": [
+            "AI Development",
+            "Claims Processing",
+            "Underwriting"
+        ],
+        "keywords": [
+            "AI",
+            "Vehicle Inspection",
+            "Claims Solutions",
+            "Insurance Technology"
+        ],
+        "summary": "Claim Genius is a leader in AI-based vehicle inspection solutions, offering products for damage estimation, claims processing, and underwriting using computer vision and artificial intelligence technology."
+    },
+    "scikey": {
+        "company_name": "SCIKEY",
+        "industry": "Talent Solutions",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "SCIKEY is a digital platform for jobs, work, and talent solutions that aims to create job and work opportunities. It is an AI-powered talent intelligence platform that helps organizations make data-driven hiring decisions."
+    },
+    "svam international": {
+        "company_name": "SVAM International",
+        "industry": "IT Services",
+        "domain": "Information Technology",
+        "tech_stack": [
+            "Cybersecurity",
+            "System Integration",
+            "Application Modernization",
+            "Data & Analytics",
+            "AI & RPA",
+            "Cloud Services",
+            "Collaboration"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "IT services",
+            "consulting",
+            "automation",
+            "data",
+            "analytics",
+            "AI",
+            "RPA",
+            "cloud"
+        ],
+        "summary": "SVAM International Inc. is a global IT services provider that offers consulting, cybersecurity, system integration, application modernization, data & analytics, AI & RPA, and cloud services to help companies enhance access to vital data, automate business processes, and increase efficiency."
+    },
+    "cheers interactive": {
+        "company_name": "Cheers Interactive",
+        "industry": "Management Consulting",
+        "domain": "cheers.tech",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Cheers Interactive is a specialised custom research, analytics and sales & marketing solutions company."
+    },
+    "secure-24": {
+        "company_name": "Secure-24",
+        "industry": "IT and Technology",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Secure-24 is a managed IT services company providing cloud, security, and application hosting services, and is now part of NTT."
+    },
+    "zendrive": {
+        "company_name": "Zendrive",
+        "industry": "Telematics",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Zendrive offers a mobile-phone-based telematics solution for measuring, analyzing, and improving driver behavior with a mission to make roads safer through data and analytics."
+    },
+    "dimagi": {
+        "company_name": "Dimagi",
+        "industry": "Technology",
+        "domain": "Social Impact",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Dimagi is a global social enterprise powering impactful frontline work through scalable digital solutions and services."
+    },
+    "loconav": {
+        "company_name": "LocoNav",
+        "industry": "Fleet Management",
+        "domain": "Fleet Management Solutions",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "LocoNav provides a single platform for fleet operations management, offering services such as vehicle tracking, asset monitoring, fuel and expense management, and more. The company aims to democratize access to fleet technology globally, particularly in emerging and high-growth markets."
+    },
+    "cogent infotech": {
+        "company_name": "COGENT Infotech",
+        "industry": "IT Consulting",
+        "domain": "Technology",
+        "tech_stack": [
+            "Analytics",
+            "AI/ML"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Digital Transformations",
+            "Workforce Solutions",
+            "Social Listening",
+            "Analytics",
+            "AI/ML"
+        ],
+        "summary": "Cogent Infotech is an award-winning global IT consulting firm providing innovative technology services to Fortune 500 companies, specializing in transformative IT solutions for private and public sectors."
+    },
+    "it by design": {
+        "company_name": "IT BY DESIGN",
+        "industry": "IT Services",
+        "domain": "Managed Services",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "IT By Design is a leading IT services company delivering end-to-end managed services, cloud solutions, cybersecurity, and digital transformation for businesses, operating as a growth engine for the MSP industry."
+    },
+    "stanley david and associates": {
+        "company_name": "Stanley David and Associates",
+        "industry": "IT and Engineering",
+        "domain": "",
+        "tech_stack": [
+            "Cloudflare",
+            "Prometheus",
+            "Oracle Database",
+            "HTML5",
+            "Wordpress",
+            "Modernizr"
+        ],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Stanley David and Associates is a recruitment specialist in the area of IT and Engineering."
+    },
+    "mygate": {
+        "company_name": "MyGate",
+        "industry": "Business/Productivity Software",
+        "domain": "community management",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Mygate is a community management and accounting ERP platform for gated communities, providing an all-in-one society management platform to manage security, finances, and community living."
+    },
+    "great place it services": {
+        "company_name": "Great Place IT Services",
+        "industry": "IT Services",
+        "domain": "IT",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Great Place IT Services provides IT services including Product Development, Mobile Applications, BI & Dashboard Reporting, and Cloud Infrastructure Management, with a focus on employee diagnostic tools."
+    },
+    "utthunga": {
+        "company_name": "Utthunga",
+        "industry": "Industrial Automation",
+        "domain": "Industrial Solutions",
+        "tech_stack": [
+            "software development",
+            "firmware development",
+            "hardware development",
+            "IIoT applications",
+            "IT-OT integration",
+            "field device integration",
+            "industrial communications"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Product Engineering",
+            "Industrial Solutions",
+            "IIoT",
+            "Industrial Automation"
+        ],
+        "summary": "Utthunga is a Product Engineering and Industrial Solutions company that provides end-to-end product engineering services and industrial solutions for top Industrial OEMs, ISVs, MSPs, and industries across the globe."
+    },
+    "grassroots": {
+        "company_name": "Grassroots",
+        "industry": "IT",
+        "domain": "technology",
+        "tech_stack": [
+            "Cloud",
+            "Cybersecurity",
+            "Automation"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "IT services",
+            "Managed Service Provider",
+            "Cloud",
+            "Cybersecurity",
+            "Automation",
+            "End User solutions"
+        ],
+        "summary": "Grassroots IT delivers and supports Cloud, Cybersecurity, Automation & End User solutions for small and mid-sized organisations."
+    },
+    "increff": {
+        "company_name": "Increff",
+        "industry": "Retail Technology",
+        "domain": "retailtech",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Increff is an AI-powered retail SaaS platform that helps brands optimize inventory, merchandising, and multichannel fulfillment operations."
+    },
+    "securekloud technologies": {
+        "company_name": "SecureKloud Technologies",
+        "industry": "Technology",
+        "domain": "Cloud Computing, AI, Digital Transformation",
+        "tech_stack": [
+            "Cloud",
+            "AI",
+            "ML",
+            "SaaS",
+            "Automation"
+        ],
+        "hiring_focus": [
+            "Cloud Native",
+            "SaaS Enablement",
+            "Managed Services",
+            "AI-Powered Digital Transformation"
+        ],
+        "keywords": [
+            "Digital Transformation",
+            "Cloud Solutions",
+            "Managed Services",
+            "AI",
+            "ML",
+            "SaaS"
+        ],
+        "summary": "SecureKloud is a global technology company providing AI-powered digital transformation, cloud-native SaaS enablement, managed services, and enterprise solutions."
+    },
+    "pharmarack": {
+        "company_name": "Pharmarack",
+        "industry": "Healthcare Technology",
+        "domain": "Pharmaceutical Supply Chain Management",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Pharmarack Technologies Pvt. Ltd specializes in innovative healthcare technology solutions for pharmaceutical supply chains, offering services such as data analytics, market insights, and retail management through its e-B2B commerce platform."
+    },
+    "adk rage": {
+        "company_name": "ADK Rage",
+        "industry": "Digital Marketing",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "ADK Rage is a full-service digital agency specializing in end-to-end digital transformation and digital marketing solutions, offering services in digital experience design, eCommerce solutions, CX, CRM, UI/UX, and performance marketing."
+    },
+    "hubilo": {
+        "company_name": "Hubilo",
+        "industry": "Event Technology",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Hubilo Softech Private Limited provides technology solutions for webinars and virtual events, offering event analytics and lead intelligence, and an all-in-one virtual and hybrid event platform for engaging and interactive event experiences."
+    },
+    "auzmor": {
+        "company_name": "Auzmor",
+        "industry": "E-learning",
+        "domain": "auzmor.com",
+        "tech_stack": [
+            "Hotjar",
+            "Android Studio",
+            "JSON-LD"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Learning Management System",
+            "LMS",
+            "LXP",
+            "AI-powered",
+            "Employee Training"
+        ],
+        "summary": "Auzmor is a powerful Learning Management System (LMS) designed to simplify employee training and development."
+    },
+    "capsitech": {
+        "company_name": "Capsitech",
+        "industry": "IT",
+        "domain": "technology innovation",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Capsitech IT Services is a fintech and technology innovation company building scalable digital platforms for modern businesses, offering services such as web design and development, software development, technology consulting, and outsourcing solutions."
+    },
+    "innive inc": {
+        "company_name": "Innive Inc",
+        "industry": "Data Analytics and Visualization",
+        "domain": "",
+        "tech_stack": [
+            "Google Fonts",
+            "F5 NGINX",
+            "Vimeo"
+        ],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Innive is a data analytics and visualization service company providing transformative solutions and services utilizing data and data relationships, focusing on business intelligence, big data, and business process services."
+    },
+    "dsm soft": {
+        "company_name": "DSM SOFT",
+        "industry": "Geospatial, Engineering, Publishing, Telematics",
+        "domain": "GIS, Mapping, Photogrammetry, Lidar Services, ePublishing, Building Information Modeling",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [
+            "Geospatial",
+            "Engineering",
+            "Telematics",
+            "Publishing",
+            "GIS",
+            "Mapping",
+            "Photogrammetry",
+            "Lidar Services",
+            "ePublishing",
+            "Building Information Modeling"
+        ],
+        "summary": "DSM Soft is a leading provider of products and services in the Geospatial, Telematics, Engineering and Publishing domains, offering services such as GIS mapping, data processing, satellite image processing, and more."
+    },
+    "customer centria": {
+        "company_name": "Customer Centria",
+        "industry": "Customer Engagement & Experience",
+        "domain": "",
+        "tech_stack": [
+            "HTML5",
+            "Bootstrap",
+            "Microsoft Outlook"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Customer Engagement",
+            "Experience",
+            "Data Driven",
+            "Marketing",
+            "Analytics"
+        ],
+        "summary": "A Global Data Driven Customer Engagement & Experience Company that powers Business Value and Customer Experience with software suite and services."
+    },
+    "enhance it": {
+        "company_name": "Enhance IT",
+        "industry": "IT",
+        "domain": "technology",
+        "tech_stack": [
+            "mobile app development",
+            "AI tools"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "IT consulting",
+            "people development",
+            "managed services",
+            "workplace efficiency"
+        ],
+        "summary": "Enhance IT is a top-tier IT consulting and people development firm providing innovative solutions such as mobile app development and AI tools to enhance workplace efficiency."
+    },
+    "teksystems global services in india": {
+        "company_name": "TEKsystems Global Services in India",
+        "industry": "IT and Technology Services",
+        "domain": "Technology Services",
+        "tech_stack": [
+            "Infor",
+            "Microsoft",
+            "Xamarin",
+            "Cloud",
+            "AI",
+            "DevOps",
+            "Security",
+            "Business Intelligence"
+        ],
+        "hiring_focus": [
+            "DevOps",
+            "Cloud",
+            "AI",
+            "Security"
+        ],
+        "keywords": [
+            "Cloud Solutions",
+            "Data Solutions",
+            "Customer Experience",
+            "Technology Consulting",
+            "IT Services"
+        ],
+        "summary": "TEKsystems is a full-stack technology services provider specializing in cloud, data, and customer experience solutions, with expertise in DevOps, AI, security, and more."
+    },
+    "delphix": {
+        "company_name": "Delphix",
+        "industry": "Financial services, Healthcare, Insurance",
+        "domain": "data management",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [
+            "data automation",
+            "data governance",
+            "data compliance",
+            "database virtualization"
+        ],
+        "summary": "Delphix provides intelligent data automation platform for enterprises, enabling scalable automation, governance, and compliance of enterprise data."
+    },
+    "thoughtspot": {
+        "company_name": "ThoughtSpot",
+        "industry": "Business Intelligence, Analytics, Data Visualization",
+        "domain": "",
+        "tech_stack": [
+            "HTML5",
+            "Fonts.com",
+            "Marketing Consulting"
+        ],
+        "hiring_focus": [
+            "Healthcare",
+            "Retail",
+            "FinServ",
+            "Tech"
+        ],
+        "keywords": [
+            "AI-native Intelligence",
+            "Agentic Analytics",
+            "Data Visualization",
+            "Dashboards",
+            "Reporting"
+        ],
+        "summary": "ThoughtSpot is the Agentic Analytics Platform company that provides AI agents, automated insights, and embedded intelligence to transform insights into action."
+    },
+    "corestack": {
+        "company_name": "CoreStack",
+        "industry": "Cloud Computing",
+        "domain": "Cloud Governance and Security",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "CoreStack is an AI-powered cloud governance and security platform that helps enterprises manage cloud spend, achieve continuous and autonomous cloud governance, and improve business efficiencies."
+    },
+    "solugenix": {
+        "company_name": "Solugenix",
+        "industry": "IT Services",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Solugenix is a leader in IT services, delivering modern technology solutions, exceptional talent, and managed services to global enterprises."
+    },
+    "visible alpha": {
+        "company_name": "Visible Alpha",
+        "industry": "Financial Technology",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Visible Alpha provides access to over 200 million data points across 170+ industries, offering granular consensus and broker estimates for investment research."
+    },
+    "flytxt": {
+        "company_name": "Flytxt",
+        "industry": "Artificial Intelligence",
+        "domain": "",
+        "tech_stack": [
+            "Linkedin Insight Tag",
+            "Albacross",
+            "MySQL"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Agentic AI",
+            "Customer Experience",
+            "AI Solutions"
+        ],
+        "summary": "Flytxt is a pioneer in delivering robust Agentic AI solutions for enterprises, driving marketplace efficiency and measurable business outcomes."
+    },
+    "fourth dimension solutions": {
+        "company_name": "Fourth Dimension Solutions",
+        "industry": "Information Technology and Services",
+        "domain": "it.solutions",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [
+            "Infrastructure Design",
+            "Integration",
+            "Information Protection",
+            "Lifecycle Management",
+            "Remote Infrastructure Management",
+            "Managed Services",
+            "Managed Security Services",
+            "Outsourcing"
+        ],
+        "summary": "Fourth Dimension Technologies provides innovative technology solutions, including infrastructure design and integration, infrastructure optimization, information protection and lifecycle management, remote infrastructure management, managed services, and managed security services."
+    },
+    "novopay": {
+        "company_name": "Novopay",
+        "industry": "Financial Technology",
+        "domain": "novopay.com",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Novopay is a low-cost merchant services provider offering card payment terminals, digital payment solutions, Aadhaar-enabled payment systems, agency banking, prepaid and gift cards, and next-gen core solutions for payments, digital banking, and card issuance."
+    },
+    "dassault systems": {
+        "company_name": "Dassault Systems",
+        "industry": "Software",
+        "domain": "3D Design and Product Lifecycle Management",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Dassault Syst\u00e8mes is a French multinational software corporation that develops software for 3D product design, simulation, manufacturing, and product lifecycle management solutions."
+    },
+    "ntt data": {
+        "company_name": "NTT DATA",
+        "industry": "Technology",
+        "domain": "IT Services",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "NTT DATA helps clients transform through consulting, industry solutions, business process services, IT modernization and managed services."
+    },
+    "data glove": {
+        "company_name": "Data Glove",
+        "industry": "IT Services and IT Consulting",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Data Glove Inc., now part of Persistent Systems, specializes in delivering innovative technology solutions including Application Development, Infrastructure Management, Cloud services, Cybersecurity, and Business Analytics. They leverage expertise in cloud services, managed IT services, and end-to-end solutions to support complex client needs, with a strong background in Microsoft Azure, business applications, and workplace offerings."
+    },
+    "replicon": {
+        "company_name": "Replicon",
+        "industry": "Software",
+        "domain": "Time Tracking, Project Management",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Replicon is a SaaS company providing AI-powered time tracking software for project-based businesses, focusing on customer collaboration and innovation."
+    },
+    "vaave": {
+        "company_name": "Vaave",
+        "industry": "Information Technology",
+        "domain": "IT Solutions",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Vaave Magic is an AI-based tool integrated into Vaave's alumni platform. Vave Technologies delivers IT solutions in web, mobile, and IT advancement services. SLB is a global technology company focused on reducing emissions while meeting energy demands. Vave Information Technology Corp provides managed IT, cloud, cybersecurity, and consulting services."
+    },
+    "sentieo": {
+        "company_name": "Sentieo",
+        "industry": "Financial Services",
+        "domain": "financial intelligence",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Sentieo is a financial intelligence platform designed for investors and asset managers, providing tools for data analysis, search, collaboration, and visualization to capture alpha-driving insights from news and financial data."
+    },
+    "capricot technologies": {
+        "company_name": "Capricot Technologies",
+        "industry": "Technology",
+        "domain": "AEC, Infrastructure, Manufacturing, Media & Entertainment",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Capricot Technologies Private Limited, soon to be ARKANCE IN Private Limited, is a technology partner providing consulting, training, and technology solutions for design and construction projects, enhancing efficiency and innovation."
+    },
+    "shorewise consulting": {
+        "company_name": "ShoreWise Consulting",
+        "industry": "Consulting",
+        "domain": "banking technology, insurance technology",
+        "tech_stack": [
+            "HTML5",
+            "Office 365",
+            "HubSpot Marketing Hub"
+        ],
+        "hiring_focus": [
+            "staffing",
+            "talent management"
+        ],
+        "keywords": [
+            "AI-driven technology",
+            "business expansion",
+            "technology solutions"
+        ],
+        "summary": "ShoreWise Consulting is a globally recognized leader in consulting and advanced AI-driven technology services, delivering business expansion solutions and staffing services to businesses."
+    },
+    "cleo": {
+        "company_name": "Cleo",
+        "industry": "software",
+        "domain": "ecosystem integration",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Cleo is an ecosystem integration software company providing cloud-based integration platform, Cleo Integration Cloud, to design, build, operate, and optimize critical business ecosystems."
+    },
+    "appventurez": {
+        "company_name": "Appventurez",
+        "industry": "Software Development",
+        "domain": "AI & Software Development",
+        "tech_stack": [
+            "AI",
+            "Machine Learning",
+            "NLP",
+            "Computer Vision",
+            "Software Development",
+            "Mobile Apps"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Generative AI",
+            "AI Agents",
+            "Intelligent Automation"
+        ],
+        "summary": "Appventurez is a leading AI-powered software development company building intelligent software, mobile apps, and scalable AI-driven digital solutions for businesses of all sizes."
+    },
+    "incture": {
+        "company_name": "Incture",
+        "industry": "IT Services and IT Consulting",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Incture is a leading digital applications company, largest SAP BTP and Business Data Cloud (BDC) partner globally, providing digital SAP AI solutions for smarter enterprise growth."
+    },
+    "pramati technologies": {
+        "company_name": "Pramati Technologies",
+        "industry": "IT Services and Software",
+        "domain": "",
+        "tech_stack": [
+            "HTML5",
+            "Modernizr",
+            "Comodo PositiveSSL Certificates"
+        ],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Pioneering technology company with a goal to make innovative products from India for the global marketplace, providing custom IT services and software, and content collaboration."
+    },
+    "knackforge": {
+        "company_name": "KnackForge",
+        "industry": "Technology",
+        "domain": "AI, Cloud, Data Solutions",
+        "tech_stack": [
+            "AI",
+            "Cloud",
+            "Data"
+        ],
+        "hiring_focus": [
+            "AI",
+            "Cloud",
+            "Data Solutions",
+            "Enterprise Software"
+        ],
+        "keywords": [
+            "Artificial Intelligence",
+            "Innovation",
+            "Operational Efficiency",
+            "Enterprise Solutions"
+        ],
+        "summary": "KnackForge provides enterprise-grade technology solutions leveraging AI, Cloud, and Data to drive innovation and enhance operational efficiency for businesses of all sizes."
+    },
+    "mangoapps": {
+        "company_name": "MangoApps",
+        "industry": "Software",
+        "domain": "",
+        "tech_stack": [
+            "HTML5",
+            "Google Tag Manager",
+            "Apache Server"
+        ],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "MangoApps is a unified workforce platform built for frontline organizations, bringing together communication, workforce operations, and employee support in one place."
+    },
+    "fulcrum digital inc": {
+        "company_name": "Fulcrum Digital Inc",
+        "industry": "Technology Services & Digital Transformation",
+        "domain": "digital transformation, technology consulting, platform engineering",
+        "tech_stack": [
+            "AI",
+            "e-commerce",
+            "platform engineering",
+            "enterprise application development"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "digital transformation",
+            "technology consulting",
+            "platform engineering",
+            "enterprise application development",
+            "AI",
+            "e-commerce"
+        ],
+        "summary": "Fulcrum Digital is a global technology services and digital transformation company specializing in platform engineering, enterprise application development, and advanced digital engineering and acceleration solutions to drive business models."
+    },
+    "hpl": {
+        "company_name": "HPL",
+        "industry": "Technology, Electrical Equipment, Semiconductor",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "HPL Services provides yield optimization solutions, technology strategy, and business alignment for semiconductor, flat panel display, and electrical equipment industries."
+    },
+    "net business solutions": {
+        "company_name": "Net Business Solutions",
+        "industry": "IT and Recruitment",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "NetBusiness Solutions (I) Ltd is a Professional Manpower & Recruitment Consulting Company, specializing in providing contractual services, IT Managed Services and recruitment services to optimize business processes."
+    },
+    "bpo convergence": {
+        "company_name": "BPO Convergence",
+        "industry": "Business Process Management Services",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "BPO Convergence provides comprehensive BPM solutions, intelligent customer lifecycle management, and document management services to various industries, including telecommunications and healthcare."
+    },
+    "compumatrice": {
+        "company_name": "CompuMatrice",
+        "industry": "Software Development",
+        "domain": "AI, Software Services",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "CompuMatrice specializes in designing, integrating, and managing AI agents, offering software strategy, consulting, UI/UX design, architecture design, mobile and web app development, and IT solutions."
+    },
+    "a-1 technology": {
+        "company_name": "A-1 Technology",
+        "industry": "Software Development",
+        "domain": "Technology",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "A-1 Technology is a software development firm providing Microsoft Cloud solutions, managed IT services, and software development services to enhance productivity and streamline operations."
+    },
+    "rategain": {
+        "company_name": "RateGain",
+        "industry": "Travel and Hospitality",
+        "domain": "Hospitality Software",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "RateGain is a global AI-powered SaaS provider for travel and hospitality, offering real-time rate intelligence, revenue optimization, and channel distribution solutions."
+    },
+    "zenwork": {
+        "company_name": "Zenwork",
+        "industry": "Tax Compliance and Regulatory Reporting Technology",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Zenwork, through its Tax1099 and Compliancely brands, is a fast-growing digital tax compliance and regulatory reporting technology company."
+    },
+    "condeco": {
+        "company_name": "Condeco",
+        "industry": "Technology",
+        "domain": "Workspace Scheduling Software",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Condeco, rebranded as Eptura Engage, is a global leader in workspace scheduling software, offering solutions for better future outcomes in businesses and their people."
+    },
+    "mtx group": {
+        "company_name": "MTX Group",
+        "industry": "Technology Consulting",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "MTX Group is a global technology consulting firm that enables organizations to modernize through digital transformation."
+    },
+    "niit technologies": {
+        "company_name": "NIIT Technologies",
+        "industry": "Information Technology",
+        "domain": "IT Solutions",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "NIIT Technologies Limited is a global IT solutions company providing application development, managed services, and cloud solutions to customers across the Americas, Europe, Asia, and Australia, with a focus on Banking and Financial Services, Insurance, and Travel and Transportation."
+    },
+    "smartek21": {
+        "company_name": "SmarTek21",
+        "industry": "Digital Engineering",
+        "domain": "smartek21.com",
+        "tech_stack": [
+            "Generative AI",
+            "Agile DevOps",
+            "Data Mesh Platforms",
+            "Conversational Interfaces"
+        ],
+        "hiring_focus": [
+            "Engineering",
+            "Talent Solutions",
+            "Innovation"
+        ],
+        "keywords": [
+            "Digital Engineering",
+            "AI-driven",
+            "Data Ecosystems",
+            "Conversational Platforms",
+            "Agile DevOps"
+        ],
+        "summary": "SmarTek21 is a global digital engineering firm that leverages Generative AI to power advanced data ecosystems and industry-leading conversational interfaces, helping enterprises navigate complexity and solve development, implementation, and business problems."
+    },
+    "transact global": {
+        "company_name": "Transact Global",
+        "industry": "IT Services",
+        "domain": "technology",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [
+            "transformative solutions",
+            "digital workplaces",
+            "back-office",
+            "BPO",
+            "call center services",
+            "technology adoption"
+        ],
+        "summary": "transACT Technology Solutions is an IT services company that specializes in transformative solutions for businesses, digital workplaces, and back-office services."
+    },
+    "fime": {
+        "company_name": "FIME",
+        "industry": "IT Services",
+        "domain": "",
+        "tech_stack": [
+            "SAP",
+            "Sendinblue",
+            "Microsoft"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "cybersecurity",
+            "cloud services",
+            "IT support",
+            "managed IT",
+            "payments",
+            "digital identity"
+        ],
+        "summary": "Fime provides consulting and testing services for secure solutions in payments, smart mobility, and digital identity."
+    },
+    "grasko solutions": {
+        "company_name": "Grasko Solutions",
+        "industry": "Healthcare Technology",
+        "domain": "healthcare technology",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Grasko Solutions designs and builds enterprise-grade healthcare platforms for healthcare providers across the United States, offering product development and quality assurance services, and specializes in providing a comprehensive Electronic Health Record (EHR) system."
+    },
+    "arcadia": {
+        "company_name": "Arcadia",
+        "industry": "Healthcare IT, Analytics, and Data Platform, Climate Technology, Energy Solutions",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Arcadia is a company operating in multiple industries including healthcare technology, climate technology, and energy solutions. They provide data analytics and platforms for payers, providers, and businesses to improve outcomes and reduce environmental impact."
+    },
+    "vymo": {
+        "company_name": "Vymo",
+        "industry": "Customer Engagement Platforms, Software, Mobile App Development",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Vymo operates as a sales engagement platform, primarily aimed at serving financial institutions with AI-powered solutions for lending, agency, bancassurance, branch banking, and collections operations."
+    },
+    "absolutdata analytics": {
+        "company_name": "Absolutdata Analytics",
+        "industry": "IT Services and IT Consulting",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Absolutdata Analytics, an Infogain company, delivers scalable business impact through AI-powered solutions, advanced analytics, and data science services."
+    },
+    "mindfire solutions": {
+        "company_name": "Mindfire Solutions",
+        "industry": "Software Development",
+        "domain": "https://mindfiresolutions.com/",
+        "tech_stack": [
+            "Amazon Web Services",
+            "Amazon Athena",
+            "Amazon ECS"
+        ],
+        "hiring_focus": [
+            "software development",
+            "cybersecurity",
+            "IT services"
+        ],
+        "keywords": [
+            "custom software development",
+            "IT services",
+            "cybersecurity",
+            "cloud security",
+            "agile methods"
+        ],
+        "summary": "Mindfire Solutions is a custom software development and IT services company with over 25 years of experience. They provide software development, cybersecurity, and IT services to global businesses using agile methods and advanced technologies."
+    },
+    "deskera": {
+        "company_name": "Deskera",
+        "industry": "Software",
+        "domain": "deskera.com",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [
+            "ERP",
+            "MRP",
+            "Accounting",
+            "Inventory",
+            "CRM",
+            "Payroll"
+        ],
+        "summary": "Deskera is a cloud-based suite of integrated enterprise management applications that provides solutions for accounting, inventory, CRM, and payroll to help fast-growing businesses operate more efficiently."
+    },
+    "trilogy innovations": {
+        "company_name": "Trilogy Innovations",
+        "industry": "IT Services",
+        "domain": "software and systems engineering",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Trilogy Innovations, Inc. is a minority-owned, SBA 8(a) certified systems and software engineering company that delivers technical solutions and IT services to the public sector and government agencies."
+    },
+    "ginesys": {
+        "company_name": "Ginesys",
+        "industry": "Retail",
+        "domain": "",
+        "tech_stack": [
+            "HTML5",
+            "Wordpress",
+            "GoDaddy Premium DNS",
+            "Go"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Retail ERP software",
+            "Ecommerce Order Management System",
+            "POS",
+            "AI-driven Business Automation",
+            "BI analytics"
+        ],
+        "summary": "Ginesys is a leading retail software company providing a comprehensive suite of solutions for the entire retail value chain, including ERP, ecommerce order management, POS, and AI-driven business automation."
+    },
+    "reltio": {
+        "company_name": "Reltio",
+        "industry": "Technology",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Reltio provides a context intelligence platform that unifies siloed data into trusted 360 views, powering AI, improving operations, and driving growth with real-time data intelligence and enterprise-grade security and governance."
+    },
+    "erevmax": {
+        "company_name": "eRevMax",
+        "industry": "Hospitality Technology",
+        "domain": "https://www.erevmax.com",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "eRevMax is a global travel technology company providing online distribution, channel connectivity, market intelligence and revenue management solutions to the hospitality industry."
+    },
+    "julia computing": {
+        "company_name": "Julia Computing",
+        "industry": "Software",
+        "domain": "Cloud Computing",
+        "tech_stack": [
+            "Julia",
+            "Cloud",
+            "AI"
+        ],
+        "hiring_focus": [
+            "Hardware Engineering",
+            "Software Development",
+            "AI-powered Modeling"
+        ],
+        "keywords": [
+            "Cloud Platform",
+            "Scientific Computing",
+            "Technical Computing",
+            "Model-based Design"
+        ],
+        "summary": "JuliaHub is a secure cloud platform for developing and deploying scientific and technical computing with Julia, focusing on hardware engineering, AI-powered modeling, and seamless scalability solutions."
+    },
+    "sirionlabs": {
+        "company_name": "SirionLabs",
+        "industry": "Software",
+        "domain": "",
+        "tech_stack": [
+            "SnapLogic",
+            "Microsoft Visio",
+            "Shopify"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "AI",
+            "Contract Management",
+            "CLM",
+            "Generative AI"
+        ],
+        "summary": "Sirion is the world's leading AI-native CLM platform, helping enterprises transform the way they approach contracts and maximize the value of their relationships."
+    },
+    "uniphore": {
+        "company_name": "Uniphore",
+        "industry": "Artificial Intelligence",
+        "domain": "Business AI",
+        "tech_stack": [
+            "Artificial Intelligence",
+            "AI Cloud",
+            "Customer Data"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Business AI",
+            "AI Cloud",
+            "Conversational AI",
+            "Voice Biometrics",
+            "Speech Analytics"
+        ],
+        "summary": "Uniphore is a Business AI Company powering the agentic enterprise with end-to-end AI solutions for businesses."
+    },
+    "srs web solutions": {
+        "company_name": "SRS Web Solutions",
+        "industry": "Healthcare",
+        "domain": "Healthcare Technology",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "SRS Web Solutions is a leading healthcare SaaS technology company specializing in digital healthcare documentation and marketing solutions for medical, dental, and veterinary practices."
+    },
+    "loco": {
+        "company_name": "Loco",
+        "industry": "Information Technology and Services",
+        "domain": "",
+        "tech_stack": [
+            "Facebook Pixel",
+            "Amazon Web Services",
+            "Amazon CloudFront"
+        ],
+        "hiring_focus": [],
+        "keywords": [
+            "Cold Chain",
+            "Supply Chain",
+            "Cybersecurity",
+            "MSP"
+        ],
+        "summary": "System Loco is an information technology and services company that delivers real-time data on condition, location, and handling to support seamless operations in pharmaceuticals, perishables, and high-value assets."
+    },
+    "softnautics": {
+        "company_name": "Softnautics",
+        "industry": "Semiconductor and Embedded AI Solutions",
+        "domain": "AI Engineering, Machine Learning, FPGA Design",
+        "tech_stack": [
+            "FPGA",
+            "DevOps",
+            "MLOps",
+            "Multimedia",
+            "Computer Vision",
+            "Deep Learning",
+            "Edge Intelligence"
+        ],
+        "hiring_focus": [
+            "AI Engineering",
+            "Machine Learning",
+            "FPGA Design",
+            "Embedded Systems"
+        ],
+        "keywords": [
+            "AI",
+            "Machine Learning",
+            "Deep Learning",
+            "FPGA",
+            "Edge Intelligence",
+            "IoT"
+        ],
+        "summary": "Softnautics is a semiconductor and embedded AI solutions company that provides engineering services for IoT solution design, FPGA design, verification, DevOps, MLOps, multimedia, computer vision, deep learning, and edge intelligence."
+    },
+    "pathlock": {
+        "company_name": "Pathlock",
+        "industry": "Software",
+        "domain": "Identity Governance",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Pathlock provides AI-native governance fabric for business-critical applications, focusing on identity governance, risk, and compliance, partnering with companies like NTT DATA Business Solutions for managed SAP cybersecurity services."
+    },
+    "safexpay": {
+        "company_name": "SafexPay",
+        "industry": "Fintech",
+        "domain": "payment solutions",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Safexpay is a B2B fintech company that provides customized payment platforms for businesses, offering payment gateways, neo-banking platforms, payout API, and tailored payment services."
+    },
+    "vyom labs": {
+        "company_name": "Vyom Labs",
+        "industry": "IT Services",
+        "domain": "Information Technology",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Vyom Labs is an IT service management and consulting company specializing in IT Infrastructure, Cloud Management, and Workflow Development powered by Automation."
+    },
+    "altruista health": {
+        "company_name": "Altruista Health",
+        "industry": "Healthcare Technology",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Altruista Health provides innovative healthcare technology solutions that drive cost savings and support value-based and person-centered care. The company delivers care management and population health management solutions."
+    },
+    "suntec business solutions": {
+        "company_name": "SunTec Business Solutions",
+        "industry": "Information Technology",
+        "domain": "",
+        "tech_stack": [
+            "HTML5",
+            "Amazon EC2",
+            "HubSpot Marketing Hub"
+        ],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "SunTec is the world's #1 relationship-based pricing and billing company, offering cloud solutions for revenue management and customer experience."
+    },
+    "concentrix tigerspike": {
+        "company_name": "Concentrix Tigerspike",
+        "industry": "Technology and Services",
+        "domain": "",
+        "tech_stack": [],
+        "hiring_focus": [],
+        "keywords": [],
+        "summary": "Concentrix is a global technology and services leader that powers the world's best brands, delivering technology-infused, omni-channel customer experience management, marketing optimization, digital, consulting, analytics and back-office services."
     }
 }

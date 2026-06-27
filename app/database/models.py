@@ -1,5 +1,16 @@
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import (
+    Column,
+    Integer,
+    ForeignKey,
+    String,
+    Text,
+    JSON,
+    DateTime
+)
+
 from app.database.connection import Base
+
+from datetime import datetime
 
 class Recruiter(Base):
     __tablename__ = "recruiters"
@@ -14,9 +25,15 @@ class GeneratedEmail(Base):
     __tablename__ = "generated_emails"
 
     id = Column(Integer, primary_key=True, index=True)
-    recruiter_id = Column(Integer)
-    subject = Column(String(255))
-    body = Column(String(255))
+    recruiter_id = Column(Integer,ForeignKey("recruiters.id"))
+    subject = Column(Text)
+    body = Column(Text)
     status = Column(String(50), default="draft")
+    gmail_draft_id = Column(String(255), unique=True, nullable=True)
+    company_analysis = Column(JSON)
+    project_matching = Column(JSON)
+    created_at = Column(
+        DateTime,
+        default=datetime.utcnow
+    )
 
-    

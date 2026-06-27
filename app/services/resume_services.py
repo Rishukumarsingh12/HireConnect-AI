@@ -145,3 +145,24 @@ class ResumeService:
                 matches.append(project)
 
         return matches
+    
+    # -----------------------------
+    # Resume Selection
+    # -----------------------------
+
+    def get_best_resume(
+        self,
+        company_context: dict | None = None,
+        matching_result: dict | None = None
+    ):
+        """
+        Returns the resume path to attach.
+
+        For now this always returns the default resume.
+        Later this can intelligently choose between
+        AI, Backend, Data Science, Python, etc. resumes.
+        """
+
+        resume_path = "C:\\Recruiter-agent\\data\\resume\\My_Resume.pdf"
+
+        return str(resume_path)
