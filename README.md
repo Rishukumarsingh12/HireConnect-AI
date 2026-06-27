@@ -1,64 +1,349 @@
-# Recruiter Agent
+# 🤖 AI Recruiter Outreach Agent
 
-Recruiter Agent is a FastAPI-based recruiting assistant that helps manage recruiter outreach workflows. It supports recruiter management, PDF-based recruiter extraction, and AI-assisted email generation.
+> **An AI-powered multi-agent recruitment outreach platform that
+> researches companies, matches portfolio projects, generates
+> personalized recruiter emails, and creates Gmail drafts with resume
+> attachments.**
 
-## Features
+------------------------------------------------------------------------
 
-- Store and manage recruiter contact records
-- Extract recruiter information from uploaded PDF files
-- Generate outreach email drafts through integrated AI services
-- Expose a simple REST API for recruiter and extraction workflows
-- Persist data locally using SQLAlchemy
+# Overview
 
-## Project Structure
+AI Recruiter Outreach Agent automates the repetitive parts of recruiter
+outreach while keeping a human-in-the-loop before emails are sent.
 
-- app/main.py - FastAPI application entry point
-- app/routers/ - API endpoints for recruiters, email generation, and extraction
-- app/services/ - business logic for PDF processing and AI-assisted tasks
-- app/database/ - database connection and models
-- app/data/ - sample data and catalogs
-- tests/ - automated tests
+Instead of sending generic cold emails, the platform:
 
-## Requirements
+-   Researches the target company
+-   Understands its technology stack and hiring focus
+-   Matches the most relevant projects from the candidate portfolio
+-   Generates a personalized outreach email
+-   Stores drafts in MySQL
+-   Creates Gmail drafts with resume attachments
 
-- Python 3.10+
-- pip
+------------------------------------------------------------------------
 
-## Local Setup
+# Problem Statement
 
-1. Create and activate a virtual environment.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Start the development server:
-   ```bash
-   uvicorn app.main:app --reload
-   ```
-4. Open the API documentation at:
-   ```text
-   http://127.0.0.1:8000/docs
-   ```
+Job seekers often spend hours:
 
-## API Overview
+-   Researching companies
+-   Customizing resumes
+-   Selecting projects
+-   Writing personalized emails
 
-- POST /recruiters/ - Create a recruiter
-- GET /recruiters/ - List all recruiters
-- GET /recruiters/{recruiter_id} - Get one recruiter
-- DELETE /recruiters/{recruiter_id} - Delete a recruiter
-- POST /email/generate/{recruiter_id} - Generate an outreach email draft
-- POST /extraction/pdf - Upload a PDF to extract recruiter information
+This project automates those repetitive tasks using specialized AI
+agents.
 
-## Testing
+------------------------------------------------------------------------
 
-Run the test suite with:
+# Key Features
 
-```bash
-pytest -q
+-   Multi-Agent AI architecture
+-   Company research using SerpAPI + LLM
+-   Structured company metadata extraction
+-   Local JSON caching to reduce API costs
+-   Intelligent portfolio project matching
+-   Personalized recruiter email generation
+-   MySQL persistence
+-   Gmail Draft creation via Gmail API
+-   Resume attachment support
+-   Modular FastAPI-ready architecture
+
+------------------------------------------------------------------------
+
+# System Architecture
+
+``` text
+Recruiter Database
+        │
+        ▼
+Company Research Agent
+        │
+        ▼
+Company Cache
+        │
+        ▼
+Project Matching Agent
+        │
+        ▼
+Email Generation Agent
+        │
+        ▼
+Resume Service
+        │
+        ▼
+Gmail Draft Service
+        │
+        ▼
+Draft saved in Gmail
 ```
 
-## Notes
+------------------------------------------------------------------------
 
-- Uploaded files are stored in the uploads directory.
-- Sample data and catalogs are included under app/data for local development.
-- Keep any credentials or access tokens in your local secure configuration and never commit them to source control.
+# Multi-Agent Workflow
+
+## 1. Company Research Agent
+
+Responsibilities
+
+-   Search company information
+-   Extract:
+    -   Industry
+    -   Domain
+    -   Tech Stack
+    -   Hiring Focus
+    -   Keywords
+    -   Company Summary
+
+Uses:
+
+-   SerpAPI
+-   Groq LLM
+-   JSON Cache
+
+------------------------------------------------------------------------
+
+## 2. Project Matching Agent
+
+Inputs
+
+-   Company metadata
+-   Candidate project catalog
+
+Outputs
+
+-   Top relevant projects
+-   Matching reason
+
+Uses semantic reasoning to explain why each project is relevant.
+
+------------------------------------------------------------------------
+
+## 3. Email Generation Agent
+
+Uses
+
+-   Recruiter information
+-   Company analysis
+-   Candidate profile
+-   Matched projects
+-   Matching reason
+
+Generates a personalized recruiter outreach email in JSON format.
+
+------------------------------------------------------------------------
+
+## 4. Gmail Service
+
+Creates Gmail drafts using OAuth2.
+
+Features:
+
+-   Draft creation
+-   Resume attachment
+-   Human review before sending
+
+------------------------------------------------------------------------
+
+# Complete Workflow
+
+``` text
+Recruiter
+    │
+    ▼
+Company Research
+    │
+    ▼
+Company Cache
+    │
+    ▼
+Project Matching
+    │
+    ▼
+Email Generation
+    │
+    ▼
+Save to MySQL
+    │
+    ▼
+Create Gmail Draft
+    │
+    ▼
+Review
+    │
+    ▼
+Send
+```
+
+------------------------------------------------------------------------
+
+# Database Design
+
+## recruiters
+
+  Column
+  ---------
+  id
+  name
+  company
+  title
+  email
+
+## generated_emails
+
+  Column
+  ------------------
+  id
+  recruiter_id
+  subject
+  body
+  status
+  company_analysis
+  project_matching
+  gmail_draft_id
+  created_at
+
+------------------------------------------------------------------------
+
+# Tech Stack
+
+## Backend
+
+-   Python
+-   FastAPI
+-   SQLAlchemy
+-   MySQL
+
+## AI
+
+-   Groq LLM
+-   Prompt Engineering
+-   Pydantic
+
+## APIs
+
+-   Gmail API
+-   SerpAPI
+
+## Authentication
+
+-   OAuth2
+
+------------------------------------------------------------------------
+
+# Project Structure
+
+``` text
+app/
+│
+├── agent/
+│   ├── company_research_agent.py
+│   ├── project_matching_agent.py
+│   └── email_generation_agent.py
+│
+├── services/
+│   ├── company_services.py
+│   ├── gmail_services.py
+│   ├── resume_services.py
+│   ├── llm_services.py
+│   ├── cache_services.py
+│   └── outreach_pipeline_services.py
+│
+├── database/
+├── prompts/
+├── schemas/
+├── data/
+│   ├── resumes/
+│   └── *.json
+└── tests/
+```
+
+------------------------------------------------------------------------
+
+# AI Pipeline
+
+1.  Recruiter selected
+2.  Company researched
+3.  Cache checked
+4.  Company metadata extracted
+5.  Projects matched
+6.  Personalized email generated
+7.  Saved to MySQL
+8.  Gmail draft created
+9.  Resume attached
+10. Human reviews before sending
+
+------------------------------------------------------------------------
+
+# Current Status
+
+✅ Company Research Agent
+
+✅ Company Cache
+
+✅ Resume Knowledge Base
+
+✅ Project Matching Agent
+
+✅ Email Generation Agent
+
+✅ Gmail Draft Integration
+
+✅ Resume Attachment
+
+✅ MySQL Storage
+
+🚧 FastAPI Endpoints
+
+🚧 Frontend Dashboard
+
+🚧 Email Analytics
+
+------------------------------------------------------------------------
+
+# Future Roadmap
+
+-   Web dashboard
+-   Resume selection agent
+-   Follow-up email generation
+-   Recruiter reply analysis
+-   Email quality scoring
+-   OpenAI / Claude model support
+-   Scheduling and automation
+-   Analytics dashboard
+
+------------------------------------------------------------------------
+
+# Screenshots
+
+Add screenshots here:
+
+-   Architecture Diagram
+-   Company Analysis Output
+-   Project Matching Output
+-   Generated Email
+-   Gmail Draft
+-   Dashboard
+
+------------------------------------------------------------------------
+
+# Author
+
+**Rishu Kumar**
+
+Built as a portfolio project demonstrating:
+
+-   Agentic AI
+-   LLM Engineering
+-   Backend Development
+-   Workflow Automation
+-   Prompt Engineering
+-   Gmail API Integration
+-   Production-style software architecture
+
+------------------------------------------------------------------------
+
+# License
+
+MIT License
