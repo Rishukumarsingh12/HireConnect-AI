@@ -147,11 +147,4 @@ class CompanyService:
 
         return None
 
-    def get_company_website(self, company_name: str):
-        pass
-
-    def get_company_careers(self, company_name: str):
-        pass
-
-    def get_company_description(self, company_name: str):
-        pass
+    
